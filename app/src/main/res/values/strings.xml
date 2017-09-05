@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConvertBaseBTCToUSDT</string>
+    <string name="hint_coin_code">Code coin</string>
+    <string-array name="base_coin_type">
+        <item>BTC</item>
+        <item>USDT</item>
+    </string-array>
+</resources>
